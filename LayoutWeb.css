@@ -1,0 +1,235 @@
+body{
+    background-color:lavender;
+
+}
+.container{
+    width: 960px;
+    margin-top: 40px;
+}
+.h1_dealer{
+    font-family: 'Ephesis', cursive;
+    font-size: 100px;
+}
+
+.p_home{
+    font-family: 'Heebo', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    position:absolute;
+    top: 145px;
+
+}
+
+.box_sign_up{
+    background-color: whitesmoke;
+    height: 100%;
+}
+
+.letter{
+    background-image: url(letter.png);
+    width: 100%;
+    height: 14px;
+
+}
+ 
+.p_sign_up {
+
+    padding-top: 14px;
+    padding-left: 20px;
+    font-weight: bold;
+    width: auto;
+    height: auto;
+}
+
+.div_input_text {
+    padding-left: 20px;
+    width: 280px;
+    float: left;
+}
+
+.div_btn_subscribe {
+    float: right;
+    margin-right: 40px;
+    width: auto;
+    height: auto;
+}
+
+.div_stamp{
+    float: right;
+    position: absolute;
+    top: 0px;
+    right: 100px;
+    background-image: url("stamp.png");
+    width: 101px;
+    height: 98px;
+    
+}
+
+.div_white{
+    margin-top: 40px;
+    background-color: whitesmoke;
+    width: auto;
+    height: 1240px;
+}
+
+.h2_this_is {
+    font-family: 'Heebo', sans-serif;
+    margin-top: 23px;
+    padding-top: 3px;
+    margin-left: 20px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.img_this_is {
+    margin-top: 18px;
+    margin-left: 20px;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 5px;
+    width: 530px;
+    height: 300px;
+}
+
+.ticket {
+    background-image: url("ticket.png");
+    height: 100%;
+    width: 290px;
+    margin-top: 20px;
+    margin-left: 35px;
+    text-align: center;
+
+}
+
+.grey_text {
+    padding-top: 40px;
+    font-weight: 500;
+    color: darkgray;
+}
+
+
+.lorem_ipsum {
+    font-family: 'Heebo', sans-serif;
+    font-weight: normal;
+    color:rgb(192, 191, 191);
+    line-height:180%;
+    text-align: left;
+    padding-left: 20px;
+    font-size: 14px;
+}
+
+.horizontal_dash_line{
+    border-left: solid 17px rgb(246, 248, 246);
+    border-right: solid 17px rgb(246, 248, 246);
+    border-top: 2px dashed rgb(228, 227, 227);
+    border-bottom: 2px dashed rgb(228, 227, 227);
+    background-color: rgb(252, 249, 249);
+    margin-left: 10px;
+    width: 95%;
+    height: 120px;
+  } 
+
+.p_deal {
+    font-family: 'Ephesis', cursive; 
+    float: left; 
+    font-size: 35px; 
+    padding-top: 33px; 
+    padding-left: 50px; 
+    color: lightgray;
+}
+
+.themes_kingdom {
+    font-family: 'Bebas Neue', cursive; 
+    float: left; 
+    font-size: 25px; 
+    padding-top: 41px; 
+    padding-left: 45px; 
+    color: lightgray;
+}
+
+.p_doves{
+    font-family: 'Dancing Script', cursive; 
+    float: left; 
+    font-size: 38px; 
+    padding-top: 27px; 
+    padding-left: 45px; 
+    color: lightgray;
+}
+
+.p_m{
+    font-family: 'Dancing Script', cursive; 
+    float: left; 
+    font-size: 45px; 
+    padding-top: 20px; 
+    padding-left: 45px; 
+    color: lightgray;
+}
+
+.p_dolor_deal {
+    color: black; 
+    font-family:'Heebo', sans-serif; 
+    
+    font-size: 18px; 
+    font-weight: bold;
+}
+
+.div_dolor_border {
+    align-self: center;
+    border-right: 2px dashed rgb(228, 227, 227);
+    height: 272px;
+}
+
+.small_white_div{
+    border: 1px solid lightgray;
+    height: 177px; 
+    width: 90%; 
+    background-color: white;
+    
+    padding: 5px;
+    text-align: center;
+}
+
+.table_grey_text {
+    color: darkgrey; 
+    line-height: 20px; 
+    font-weight: bold; 
+    font-size: 13px;
+}
+
+.table_dark_text {
+    color: black; 
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.p_72days{
+    font-family: 'Heebo', sans-serif;
+    font-weight: normal;
+    color:grey;
+    font-size: 11px;
+    float: left;
+    padding-top: 17px;
+}
+
+.btn_see_deal {
+    margin-top: 7px;
+}
+
+.div_bottom_border {
+    border-bottom: 2px dashed rgb(228, 227, 227);
+    width: 89%;
+    height: 3px;
+    padding-top:50px;
+}
+
+.footer{
+    padding-top: 50px; 
+    height: 100px; 
+    text-align: center;
+}
+
+.text_footer{
+    font-family: 'Heebo', sans-serif;
+    font-weight: normal;
+    color:rgb(192, 191, 191);
+    font-size:12px;
+}
